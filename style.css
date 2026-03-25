@@ -2,3 +2,11 @@
     color: white;
     background-color: black;
 }
+.btn{
+    background-color: white;
+    color: black;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+    margin-top: 20px;
+}
